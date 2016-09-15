@@ -7,5 +7,6 @@ Project clones using WebTorrent
 - [PeerTube](https://peertube.btorrent.xyz)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([demo](http://peertube.cpy.re/))
 - [FastCast](https://github.com/fastcast/fastcast) ([demo](http://fastcast.nz/))
+- [ZeroTube](https://github.com/rllola/zeroTube) ([Zeronet address](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb))
 - [x] **Speedtest**
 - [PeerFast](https://github.com/DiegoRBaquero/PeerFast) ([demo](https://diegorbaquero.github.io/PeerFast/))
