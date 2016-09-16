@@ -27,7 +27,7 @@ Found an awesome product clone using WebTorrent/WebRTC? Send a pull request! Jus
 
 * Make sure what you are adding is not already on the list
 * Make a separate pull request for each addition
-* Use the format: `[Name](GitHub Link) ([demo](GitHub Link))`
+* Use the format: `[Name](GitHub Link) ([demo](Demo Link))`
 * Add it to the bottom of that product's clones list, not top or middle
 * Check your spelling and grammar
 * Feel free to create or improve a product clone category
