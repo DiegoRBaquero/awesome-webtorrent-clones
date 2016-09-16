@@ -12,3 +12,5 @@ Project clones using WebTorrent
 - [PeerFast](https://github.com/DiegoRBaquero/PeerFast) ([demo](https://diegorbaquero.github.io/PeerFast/))
 - [x] **Dropbox (Screenshot-sharing)**
 - [Seedshot](https://github.com/twobucks/seedshot) ([demo](http://seedshot.io/))
+- [x] **AirDrop**
+- [ShareDrop](https://github.com/cowbell/sharedrop) ([demo](https://www.sharedrop.io/))
