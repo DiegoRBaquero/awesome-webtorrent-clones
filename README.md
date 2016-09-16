@@ -1,11 +1,19 @@
 # Awesome WebTorrent Clones [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Awesome Project clones using WebTorrent
+Awesome product clones using [WebTorrent](https://github.com/feross/webtorrent)/WebRTC
+
+## Contents
+- [AirDrop/WeTransfer - Direct File Transfer](#airdropwetransfer---direct-file-transfer)
+- [Lightshot/Gyazo/Puush - Screenshot-sharing](#lightshotgyazopuush---screenshot-sharing)
+- [Speedtest.net/Fast.com - Internet Speed Test](#speedtestnetfastcom---internet-speed-test)
+- [μTorrent/Transmission/Vuze - BitTorrent Client](#μtorrenttransmissionvuze---bittorrent-client)
+- [YouTube/Vimeo - Video Hosting Platform](#youtubevimeo---video-hosting-platform)
+- [Contributing](#contributing)
 
 ### AirDrop/WeTransfer - Direct File Transfer
 - [FilePizza](https://github.com/kern/filepizza) ([demo](https://file.pizza/))
 - [ShareDrop](https://github.com/cowbell/sharedrop) ([demo](https://www.sharedrop.io/))
 
-### Lightshot/Gyazo/Puush - Screenshot-sharing
+### Lightshot/Gyazo/Puush - Screenshot Sharing
 - [Seedshot](https://github.com/twobucks/seedshot) ([demo](http://seedshot.io/))
 
 ### Speedtest.net/Fast.com - Internet Speed Test
@@ -38,4 +46,4 @@ Found an awesome product clone using WebTorrent/WebRTC? Send a pull request! Jus
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This work (Awesome Lumen) is free of known copyright restrictions.
+This work (Awesome WebTorrent Clones) is free of known copyright restrictions.
