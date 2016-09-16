@@ -3,11 +3,14 @@ Awesome product clones using [WebTorrent](https://github.com/feross/webtorrent)/
 
 ## Contents
 - [AirDrop/WeTransfer - Direct File Transfer](#airdropwetransfer---direct-file-transfer)
+- [Chrome/Firefox - Web Browser](#chromefirefox---web-browser)
 - [Lightshot/Gyazo/Puush - Screenshot-sharing](#lightshotgyazopuush---screenshot-sharing)
 - [Speedtest.net/Fast.com - Internet Speed Test](#speedtestnetfastcom---internet-speed-test)
 - [μTorrent/Transmission/Vuze - BitTorrent Client](#μtorrenttransmissionvuze---bittorrent-client)
 - [YouTube/Vimeo - Video Hosting Platform](#youtubevimeo---video-hosting-platform)
 - [Contributing](#contributing)
+
+## The Clones
 
 ### AirDrop/WeTransfer - Direct File Transfer
 - [FilePizza](https://github.com/kern/filepizza) ([demo](https://file.pizza/))
