@@ -13,6 +13,7 @@ Awesome Project clones using WebTorrent
 
 ### μTorrent/Transmission/Vuze - BitTorrent Client
 - [βTorrent](https://github.com/DiegoRBaquero/BTorrent) ([demo](https://btorrent.xyz))
+- [WebTorrent Desktop](https://github.com/feross/webtorrent-desktop) ([demo](https://webtorrent.io/desktop/))
 
 ### YouTube/Vimeo - Video Hosting Platform
 - [PeerTube](https://peertube.btorrent.xyz)
