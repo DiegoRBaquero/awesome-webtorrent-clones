@@ -13,6 +13,9 @@ Awesome product clones using [WebTorrent](https://github.com/feross/webtorrent)/
 - [FilePizza](https://github.com/kern/filepizza) ([demo](https://file.pizza/))
 - [ShareDrop](https://github.com/cowbell/sharedrop) ([demo](https://www.sharedrop.io/))
 
+### Chrome/Firefox - Web Browser
+- [Web2Web](https://github.com/elendirx/web2web) ([demo](https://elendirx.github.io/web2web/))
+
 ### Lightshot/Gyazo/Puush - Screenshot Sharing
 - [Seedshot](https://github.com/twobucks/seedshot) ([demo](http://seedshot.io/))
 
