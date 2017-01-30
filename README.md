@@ -30,10 +30,11 @@ Awesome product clones using [WebTorrent](https://github.com/feross/webtorrent)/
 - [WebTorrent Desktop](https://github.com/feross/webtorrent-desktop) ([demo](https://webtorrent.io/desktop/))
 
 ### YouTube/Vimeo - Video Hosting Platform
-- [PeerTube](https://peertube.btorrent.xyz)
+- [PeerTube](https://github.com/DiegoRBaquero/PeerTube)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([demo](http://peertube.cpy.re/))
 - [FastCast](https://github.com/fastcast/fastcast) ([demo](http://fastcast.nz/))
 - [ZeroTube](https://github.com/rllola/zeroTube) ([Zeronet address](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb))
+- [BitChute](https://www.bitchute.com/)
 
 ## Contributing
 Found an awesome product clone using WebTorrent/WebRTC? Send a pull request! Just follow the guidelines
