@@ -1,5 +1,5 @@
 # Awesome WebTorrent Clones [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Awesome product clones using [WebTorrent](https://github.com/feross/webtorrent)/WebRTC
+Awesome product clones using [WebTorrent](https://github.com/webtorrent/webtorrent)/[WebRTC](https://webrtc.org/)
 
 ## Contents
 - [AirDrop/WeTransfer - Direct File Transfer](#airdropwetransfer---direct-file-transfer)
