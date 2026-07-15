@@ -29,6 +29,9 @@ Awesome product clones using [WebTorrent](https://github.com/webtorrent/webtorre
 - [βTorrent](https://github.com/DiegoRBaquero/BTorrent) ([demo](https://btorrent.xyz))
 - [WebTorrent Desktop](https://github.com/feross/webtorrent-desktop) ([demo](https://webtorrent.io/desktop/))
 
+### WhatsApp/Telegram - Messaging App
+- [decentral.ninja](https://github.com/decentral-ninja/website) ([demo](https://decentral.ninja))
+
 ### YouTube/Vimeo - Video Hosting Platform
 - [PeerTube](https://github.com/DiegoRBaquero/PeerTube)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) ([demo](http://peertube.cpy.re/))
